@@ -1,4 +1,4 @@
-name: Ultroid Workflow
+name: Bot Workflow
 
 on:
     push:
